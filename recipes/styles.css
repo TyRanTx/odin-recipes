@@ -1,0 +1,7 @@
+body {
+    background-color: lime;
+}
+
+h1, p, h3, li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
